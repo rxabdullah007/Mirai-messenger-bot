@@ -10,9 +10,9 @@
     A simple Facebook Messenger Bot made by me(rX Abdullah).
     <br />
     <br />
-    <a href="https://github.com/miraiPr0ject/miraiv2/issues">Report Bug</a>
+    <a href="https://github.com/rxabdullah007/Mirai-messenger-bot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/miraiPr0ject/miraiv2/pulls">Request Feature</a>
+    <a href="https://github.com/rxabdullah007/Mirai-messenger-bot/pulls">Request Feature</a>
     </p>
 </p>
 
