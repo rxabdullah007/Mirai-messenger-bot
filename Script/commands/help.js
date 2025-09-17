@@ -55,7 +55,7 @@ module.exports.run = function ({ api, event, args }) {
 │ ★baby ★mari
 │ ★bot ★hippi
 │ ★xan ★bby
- |
+│
 │ ───× 
 │ 𝗚𝗥𝗢𝗨𝗣 𝗠𝗔𝗡𝗔𝗚𝗘
 │ ★adduser ★kick
@@ -123,14 +123,14 @@ module.exports.run = function ({ api, event, args }) {
 │ ★clearcache ★cache
 │ ★files ★cmdinstall
 │
-| ───×
-| 𝗡𝗨𝗗𝗘 
-| ★getfix (uid) ★pixlist
-| ★pixup
+│ ───× 
+│ 𝗡𝗨𝗗𝗘
+│ ★getfix (uid) ★pixlist
+│ ★pixup
 ╰─────────────⧕
 ╭─『 RX  CHAT BOT 』
 ╰‣ Total commands: ${totalCmds}
-╰‣ A Facebook Bot
+╰‣ how to use !help (cmdname) 
 ╰‣ CEO : Maria 🧃🐣
 ╰‣ ADMIN: rX Abdullah
 ╰‣ RIPORT FOR ISSUE,
